@@ -1,3 +1,3 @@
-import streamlit as st
+import streamlit
 
-st.title("My New Streamlit App")
+streamlit.title('My New Streamlit App')
